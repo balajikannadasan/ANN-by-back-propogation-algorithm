@@ -97,7 +97,7 @@ print("Actual Output:\n"+str(y))
 print("Predicted Output:\n"+str(output))
 ~~~
 ## Output:
-![ANN by back propagation algorithm](XXX.png)
+![ANN by back propagation algorithm](xxx.png)
 
 
 ## Result:
